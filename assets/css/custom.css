@@ -1,0 +1,158 @@
+﻿/* Add here all your css styles (customizations) */
+
+/* Fonts
+------------------------------------*/
+.italic
+{
+	font-style: italic;
+}
+.underline
+{
+	text-decoration: underline;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.color-main {
+    color: #0096FF !important;
+}
+
+
+.color-main-2 {
+    color: #2E2E2E !important;
+}
+
+.bg-color-spa-green { 
+    background-color: #9dba04 !important;
+
+}
+
+.line-height-1-3 {
+    line-height: 1.5 !important;
+}
+
+.line-height-none {
+    line-height: initial !important;
+}
+
+.information-box-nobg 
+{   
+    margin: 30px;
+    padding: 20px;    
+    border: 2px solid #2E2E2E;
+    border-radius: 10px;              
+    text-transform: uppercase;
+    color: #2E2E2E;
+}
+
+/* Borders
+------------------------------------*/
+.no-border {
+	border: 0 !important;
+}
+
+.no-bottom-border {
+	border-bottom: 0 !important;
+}
+
+.vertical-align-middle {	
+	vertical-align: middle;
+}
+.gallery-padding 
+{
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+    
+}
+
+hr { 
+    margin: 0.7em auto;     
+    border-top: 1px solid #2E2E2E;
+
+} 
+
+.Find-Us-FB
+{    
+    margin-top: 20px;    
+    margin-bottom: 30px;    
+}
+
+
+.Find-Us-FB img
+{        
+    display:inline-block;    
+}
+
+.Find-Us-FB a
+{    
+    color: #0096FF!important;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 20px;    
+    text-decoration: none;
+}
+
+.img-frame {
+	position: relative;
+	z-index: 10;
+	max-width: 300px;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 2px;
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 400px;
+	cursor: default;
+}
+
+.h4
+{
+    font-size: 15px;
+    color: #5b5b5b;
+}
+
+.padding-right-5 { padding-right: 5px;}
+.padding-right-10 { padding-right: 10px;}
+.padding-right-20 { padding-right: 20px;}
+
+
+.prices ul {
+    /*list-style: none;*/
+    padding-left: 25px;
+}
+
+.information-box 
+{    
+    padding: 15px;
+    border: 1px solid #2E2E2E;
+    border-radius: 15px;    
+    background-color: #0096FF;
+    color: #fff;
+}
+
+.information-box-nobg 
+{    
+    padding: 15px;
+    border: 1px solid #0096FF;
+    border-radius: 15px;              
+}
+
+
+.panel-main {
+   border-color: #0096FF;   
+  
+}
+
+.panel-main > .panel-heading 
+{
+   padding: 10px;
+   background: #0096FF;
+   
+}
+
+.padding-15 
+{
+    padding: 10px;
+}
